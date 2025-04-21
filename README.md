@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 🎓 Final-year student at **Tôn Đức Thắng University**, majoring in **Software Engineering**  
-📱 Focused on **Mobile Development (Flutter & Android)**
+📱 Focused on **Mobile Development (Flutter & Android)**  
 🧠 Learning advanced architectures like **Bloc**, **Riverpod**, and **Clean Architecture**  
 ☁️ Experience with **Firebase**, **NestJS**, and **Node.js** 
 
