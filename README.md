@@ -70,12 +70,14 @@
 
 ## 📈 Visitor Count
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DinnBlack&icon=0&color=0" />
-</p>
+<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinnblack/dinnblack/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinnblack/dinnblack/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dinnblack/dinnblack/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DinnBlack/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/DinnBlack/DinnBlack/output/snake.svg" alt="Snake animation" />
+
+###
