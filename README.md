@@ -75,9 +75,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/DinnBlack/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/DinnBlack/DinnBlack/output/snake.svg" alt="Snake animation" />
-
-###
