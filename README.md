@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/6P6q0QW.png" alt="Hoang Phuc Banner" width="100%" />
+  <a href="#">
+    <img src="https://i.pinimg.com/1200x/2d/af/ec/2dafec6aac40b2efc83ae39c9b646378.jpg" alt="Hoang Phuc Banner" width="100%" height="300" />
+  </a>
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Hoàng Phúc</h1>
 <h3 align="center">4th year Software Engineering student | Flutter & Backend Developer</h3>
@@ -10,10 +13,35 @@
 ## 🚀 About Me
 
 🎓 Final-year student at **Tôn Đức Thắng University**, majoring in **Software Engineering**  
-📱 Focused on **Mobile Development (Flutter & Android)** and robust **Backend APIs**  
+📱 Focused on **Mobile Development (Flutter & Android)**
 🧠 Learning advanced architectures like **Bloc**, **Riverpod**, and **Clean Architecture**  
-☁️ Experience with **Firebase**, **NestJS**, and **Node.js**  
-📫 Reach me at: **[dinnblack.dev@gmail.com](mailto:dinnblack.dev@gmail.com)**
+☁️ Experience with **Firebase**, **NestJS**, and **Node.js** 
+
+---
+
+## 📬 Contact
+
+<br clear="both">
+
+<div align="center">
+  <a href="mailto:dhphuc2003.work@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/ph%C3%BAc-%C4%91inh-ho%C3%A0ng-362077271/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/18dinn_/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="[https://www.facebook.com/phucdinn/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+</div>
+
+###
 
 ---
 
@@ -45,15 +73,6 @@
 
 ---
 
-## 📬 Contact
-
-<p align="center">
-  <a href="mailto:dinnblack.dev@gmail.com"><img src="https://img.shields.io/badge/Email-dinnblack.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dinnblack/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/DinnBlack" target="_blank"><img src="https://img.shields.io/badge/GitHub-DinnBlack-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
